@@ -1,4 +1,4 @@
-package Sesion_06.Sesion_06.entity;
+package Sesion_06.Sesion_06.Reto01.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

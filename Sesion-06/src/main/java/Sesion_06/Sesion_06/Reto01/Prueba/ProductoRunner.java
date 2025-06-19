@@ -1,11 +1,11 @@
-package Sesion_06.Sesion_06.Prueba;
+package Sesion_06.Sesion_06.Reto01.Prueba;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
-import Sesion_06.Sesion_06.entity.Producto;
-import Sesion_06.Sesion_06.repository.ProductoRepository;
+import Sesion_06.Sesion_06.Reto01.entity.Producto;
+import Sesion_06.Sesion_06.Reto01.repository.ProductoRepository;
 
 @Component
 public class ProductoRunner {
